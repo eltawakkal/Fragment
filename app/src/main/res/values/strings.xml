@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <array name="city">
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+        <item>New York</item>
+    </array>
+
+
+    <array name="country">
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+        <item>United State</item>
+    </array>
+</resources>
